@@ -4,7 +4,7 @@
 - 🔭 I’m currently working on [Chef d'oeuvre](https://github.com/charbino/chef-oeuvre)
 - 🌱 I’m currently learning **Symfony, Javascript, VueJS, Docker**
 - 👨‍💻 All of my projects are available at [https://github.com/charbino](https://github.com/charbino)
-- 🚙 Discover my project in production : [Ekocarbu](https::/ekocarbu.fr)
+- 🚙 Discover my project in production : [Ekocarbu](https://ekocarbu.fr)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
